@@ -111,7 +111,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,github,git,linux,vscode,figma,ps,ai" />
 </p>
 
----
+--- 
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=joelmarc32&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" />
